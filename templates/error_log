@@ -1,0 +1,50 @@
+[07-Aug-2019 09:57:57 America/New_York] PHP Notice:  Undefined index: path in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[07-Aug-2019 09:57:57 America/New_York] PHP Notice:  Undefined index: path in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[07-Aug-2019 09:57:57 America/New_York] PHP Warning:  chmod(): No such file or directory in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[07-Aug-2019 09:57:57 America/New_York] PHP Notice:  Undefined index: path in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[07-Aug-2019 09:57:57 America/New_York] PHP Warning:  include(/home/mensazrv/cbmhhs.school360.info/templates/.php): failed to open stream: No such file or directory in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[07-Aug-2019 09:57:57 America/New_York] PHP Warning:  include(/home/mensazrv/cbmhhs.school360.info/templates/.php): failed to open stream: No such file or directory in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[07-Aug-2019 09:57:57 America/New_York] PHP Warning:  include(): Failed opening '/home/mensazrv/cbmhhs.school360.info/templates/.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Notice:  Undefined index: path in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Notice:  Undefined index: path in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Warning:  chmod(): No such file or directory in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Notice:  Undefined index: path in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Warning:  include(/home/mensazrv/cbmhhs.school360.info/templates/.php): failed to open stream: No such file or directory in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Warning:  include(/home/mensazrv/cbmhhs.school360.info/templates/.php): failed to open stream: No such file or directory in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[16-Aug-2019 17:15:43 America/New_York] PHP Warning:  include(): Failed opening '/home/mensazrv/cbmhhs.school360.info/templates/.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/mensazrv/cbmhhs.school360.info/templates/cfgs.php on line 3
+[20-Nov-2019 14:42:12 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/hdgejk.php on line 3
+[20-Nov-2019 14:42:12 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/hdgejk.php on line 3
+[21-Nov-2019 02:47:22 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/fthnwf.php on line 3
+[21-Nov-2019 02:47:22 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/fthnwf.php on line 3
+[21-Nov-2019 14:36:53 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 14:36:57 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 14:37:02 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 15:01:38 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 15:01:39 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 15:01:41 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 16:26:31 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[21-Nov-2019 17:01:04 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/mensazrv/cbmhhs.school360.info/templates/ww-te.php(31) : runtime-created function on line 1109
+[24-Nov-2019 12:26:47 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/qnpvxw.php on line 3
+[24-Nov-2019 12:26:47 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/qnpvxw.php on line 3
+[24-Nov-2019 12:29:05 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/fwroqp.php on line 3
+[24-Nov-2019 12:29:05 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/fwroqp.php on line 3
+[24-Nov-2019 12:30:29 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/ikuosi.php on line 3
+[24-Nov-2019 12:30:29 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/ikuosi.php on line 3
+[24-Nov-2019 12:40:09 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/xvnbtq.php on line 3
+[24-Nov-2019 12:40:09 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/xvnbtq.php on line 3
+[24-Nov-2019 12:57:45 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/urwltu.php on line 3
+[24-Nov-2019 12:57:45 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/urwltu.php on line 3
+[29-Nov-2019 14:18:06 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/fsgmof.php on line 3
+[29-Nov-2019 14:18:06 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/fsgmof.php on line 3
+[29-Nov-2019 14:52:13 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/jbskye.php on line 3
+[29-Nov-2019 14:52:13 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/jbskye.php on line 3
+[29-Nov-2019 19:48:13 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/sdpoqy.php on line 3
+[29-Nov-2019 19:48:13 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/sdpoqy.php on line 3
+[29-Nov-2019 23:22:18 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/lgqmst.php on line 3
+[29-Nov-2019 23:22:18 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/lgqmst.php on line 3
+[30-Nov-2019 00:06:30 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/gtkuxv.php on line 3
+[30-Nov-2019 00:06:30 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/gtkuxv.php on line 3
+[30-Nov-2019 00:14:52 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/wsuysm.php on line 3
+[30-Nov-2019 00:14:52 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/wsuysm.php on line 3
+[30-Nov-2019 00:14:52 America/New_York] PHP Notice:  Undefined index: url in /home/mensazrv/cbmhhs.school360.info/templates/lqfrgs.php on line 3
+[30-Nov-2019 00:14:52 America/New_York] PHP Notice:  Undefined index: mmm in /home/mensazrv/cbmhhs.school360.info/templates/lqfrgs.php on line 3

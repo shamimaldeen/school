@@ -1,0 +1,12 @@
+[29-Jan-2019 06:48:29 America/New_York] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/mensazrv/cbmhhs.school360.info/system/database/drivers/mysqli/mysqli_result.php on line 229
+[29-Jan-2019 07:49:20 America/New_York] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/mensazrv/cbmhhs.school360.info/system/database/drivers/mysqli/mysqli_result.php on line 229
+[31-Jan-2019 06:35:55 America/New_York] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/mensazrv/cbmhhs.school360.info/system/database/drivers/mysqli/mysqli_result.php on line 229
+[11-Feb-2019 02:41:18 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_query_builder.php on line 2410
+[13-Feb-2019 00:45:43 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_driver.php on line 1856
+[13-Feb-2019 00:59:28 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_driver.php on line 727
+[13-Feb-2019 01:00:52 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_driver.php on line 1410
+[13-Feb-2019 01:02:10 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_query_builder.php on line 2413
+[13-Feb-2019 01:04:14 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_query_builder.php on line 2747
+[16-Feb-2019 02:07:40 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mensazrv/cbmhhs.school360.info/system/database/DB_driver.php on line 1544
+[03-Mar-2019 02:55:58 America/New_York] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/mensazrv/cbmhhs.school360.info/system/database/drivers/mysqli/mysqli_result.php on line 229
+[13-Apr-2019 04:50:23 America/New_York] PHP Fatal error:  Call to a member function fetch_object() on boolean in /home/mensazrv/cbmhhs.school360.info/system/database/drivers/mysqli/mysqli_result.php on line 229

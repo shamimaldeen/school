@@ -1,0 +1,3 @@
+[29-Nov-2019 04:02:55 America/New_York] PHP Notice:  Undefined index: name in /home/mensazrv/cbmhhs.school360.info/templates/atomic/atomic.php on line 9
+[29-Nov-2019 04:02:55 America/New_York] PHP Notice:  Undefined index: file in /home/mensazrv/cbmhhs.school360.info/templates/atomic/atomic.php on line 10
+[29-Nov-2019 04:02:55 America/New_York] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/mensazrv/cbmhhs.school360.info/templates/atomic/atomic.php on line 13
